@@ -2,9 +2,9 @@
 > [!NOTE]
 > Software Developers/Organizations: Looking to implement Virtual speakers/mics into your app? For advanced/custom functionality like named pipes, shared memory buffers (for no-latency audio), direct integration with your existing apps, and more; Contact us for quotes on a custom build! contact@airspexta.com
 
-# Virtual Audio Driver by Micheal Samson
+# Virtual Audio Driver test by Micheal Samson working on this to create a new way of audio usage 
 
-Welcome to the **Virtual Audio Driver by MikeTheTech**! This project provides two key drivers based on the Windows Driver Kit (WDK):
+Welcome to the **Virtual Audio Driver by Spectrian**! This project provides two key drivers based on the Windows Driver Kit (WDK):
 
 - **Virtual Audio Driver** – Creates a virtual speaker output device and a virtual microphone input device.
 
